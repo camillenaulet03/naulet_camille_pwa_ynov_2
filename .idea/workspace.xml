@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67d7cf4a-eee9-4b3c-97e0-50c13195652f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/favicon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icons/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/quasar.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/assets/quasar-logo-vertical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/boot/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/boot/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/EssentialLink.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/css/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/css/quasar.variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/icons/192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/icons/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/index.template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/layouts/MainLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/pages/ErrorNotFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/pages/IndexPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/router/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/services/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/components/password/password-controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/components/password/password-routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ig6MGHDrpQef5IlYVTkyPuT8Hs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ynov/M2/Web mobile/naulet_camille_pwa_ynov",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "C:\\Users\\camil\\AppData\\Local\\JetBrains\\Toolbox\\apps\\PhpStorm\\ch-0\\223.7571.212\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\public" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\public\icons" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\src" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\server" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\src\boot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\src" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\public" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\public\icons" />
+      <recent name="D:\ynov\M2\Web mobile\naulet_camille_pwa_ynov_2\front\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d7cf4a-eee9-4b3c-97e0-50c13195652f" name="Changes" comment="" />
+      <created>1670590829365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670590829365</updated>
+      <workItem from="1670590830741" duration="7159000" />
+      <workItem from="1670675163076" duration="1423000" />
+      <workItem from="1673525087354" duration="218000" />
+      <workItem from="1673593193661" duration="5355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
